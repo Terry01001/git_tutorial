@@ -1,1 +1,1 @@
-##  This is my first prject
+##  This is my first project
